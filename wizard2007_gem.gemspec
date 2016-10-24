@@ -5,7 +5,7 @@ require 'wizard2007_gem/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'wizard2007_gem'
-  spec.version       = "#{Wizard2007Gem::VERSION}"
+  spec.version       = "#{Wizard2007_gem::VERSION}"
   spec.authors       = ['Tatarinov Eujine']
   spec.email         = ['sponsor85@mail.ru']
 
